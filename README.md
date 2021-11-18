@@ -7,4 +7,7 @@
 - CSS
 - JavaScript
 
+### IDE
+- Visual Studio Code
+
 ### Shamailov Max Projects
